@@ -1,5 +1,5 @@
 ### enyung
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feyl056&count_bg=%23A12CCE&title_bg=%23555555&icon=&icon_color=%23E96EFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feyl056&count_bg=%23E7C4F5&title_bg=%23A422C8&icon=&icon_color=%23E96EFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### PROJECTS
 * [매일매일 기록하는 우리의 추억, 펫디 iOS](https://github.com/eyl056/MyPetDiary)
