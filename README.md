@@ -21,6 +21,7 @@
 
 #### [iOS]
 * [매일매일 기록하는 우리의 추억, 펫디](https://github.com/eyl056/MyPetDiary)
+* [숙소 후기 공유 어플리케이션](https://github.com/SimSaSukSo/SimSaSukSo_server)
 
 #### [Algorithm]
 * [문장 기반 이미지 추천 프로젝트](https://github.com/eyl056/SentenceToImage)
