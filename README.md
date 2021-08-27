@@ -14,6 +14,7 @@
 #### [Web]
 * [주차장 자동화 시스템](https://github.com/TeamWilliam/sogong-ParkBentley)
 * [WebRTC 화상 회의 시스템](https://github.com/CSID-DGU/2020-2-OSSP1-WebRTC-2)
+* [동국대학교 주변 식당 정보 조회 및 후기 공유 웹 사이트](https://github.com/ddolI98/DGU_restaurant_WebProject)
 
 #### [Android]
 * [서울시 지하철 임산부 배려석 어플리케이션](https://github.com/TeamWilliam/pinkVoice)
