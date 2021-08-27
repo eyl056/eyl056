@@ -3,10 +3,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feyl056&count_bg=%23E7C4F5&title_bg=%23A422C8&icon=&icon_color=%23E96EFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br>
-
+### ✨Github Stats✨
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eyl056&show_icons=true&theme=radical)
 
+### 🎨Most Used🎨
 <a href="https://github.com/eyl056/eyl056">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyl056&hide=c%2B%2B,scss, css, jupyter notebook&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="enyung's GitHub Repos" />
 </a>
