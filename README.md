@@ -70,7 +70,7 @@
 * [수면 중 뒤척임 기반 조명 자동 제어 어플리케이션](https://github.com/eyl056/Better-Sleep_ValueUP)
 
 #### [iOS]
-* [매일매일 기록하는 우리의 추억, 펫디](https://github.com/eyl056/MyPetDiary)
+* [매일매일 기록하는 우리의 추억, 펫디](https://github.com/ProjectInTheClass/MyPetDiary_iosapp)
 * [숙소 후기 공유 어플리케이션](https://github.com/SimSaSukSo/SimSaSukSo_server)
 
 #### [Algorithm]
