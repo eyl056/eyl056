@@ -51,10 +51,10 @@
 ### ✨Github Stats✨
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eyl056&show_icons=true&theme=radical)
 
-### 🎨Most Used🎨
+<!-- ### 🎨Most Used🎨
 <a href="https://github.com/eyl056/eyl056">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyl056&hide=c%2B%2B,scss, css, jupyter notebook&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="enyung's GitHub Repos" />
-</a>
+</a> -->
 <br>
 
 ### 💻PROJECTS💻
